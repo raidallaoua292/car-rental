@@ -1,6 +1,6 @@
 # Car Rental
 
-This is a car rental web application. 
+This is a car rental web application that allows users to view a list of cars and filter them by brand, type, year, fuel type, and transmission. The application is built using Next.js, TypeScript, Tailwind CSS, and headlessui.
 
 ## Technologies
 - [Next.js](https://nextjs.org/)
