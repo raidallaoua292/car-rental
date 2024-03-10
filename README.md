@@ -1,6 +1,6 @@
 # Car Rental
 
-This is a car rental web application. It is a project for the course "Web Development" at the University of Applied Sciences in Salzburg.
+This is a car rental web application. 
 
 ## Technologies
 - [Next.js](https://nextjs.org/)
