@@ -1,3 +1,46 @@
+# Car Rental
+
+This is a car rental web application. It is a project for the course "Web Development" at the University of Applied Sciences in Salzburg.
+
+## Technologies
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [react](https://reactjs.org/)
+- [headlessui](https://headlessui.dev/)
+
+## Features
+- [x] List all cars
+- [x] Filter cars by brand
+- [x] Filter cars by type
+- [x] Filter cars by year
+- [x] Filter cars by fuel type
+- [x] Filter cars by transmission
+- [x] display car details
+- [x] responsive design
+
+## Future Features
+- [ ] Add car to favorites
+- [ ] Rent a car
+- [ ] Add a car
+- [ ] Edit a car
+- [ ] Delete a car
+- [ ] Add a user
+- [ ] Edit a user
+- [ ] Delete a user
+
+## references
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [headlessui Documentation](https://headlessui.dev/)
+- [react Documentation](https://reactjs.org/docs/getting-started.html)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [javascript Mastery](https://www.youtube.com/watch?v=pUNSHPyVryU)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
