@@ -1,7 +1,7 @@
-import { CarProps, FillterProps } from "@/types";
+import { CarProps, FilterProps } from "@/types";
 
 // Fetch cars from the API
-export async function fetchCars(fillter:FillterProps){
+export async function fetchCars(fillter:FilterProps){
   const { manufacturer, year, fuel, limit, model } = fillter;
   const url = `https://cars-by-api-ninjas.p.rapidapi.com/v1/cars?manufacturer=${manufacturer}&year=${year}&fuel=${fuel}&limit=${limit}&model=${model}`;
   
