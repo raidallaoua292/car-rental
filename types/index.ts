@@ -46,7 +46,7 @@ export interface HomeProps {
 
 export interface OptionsProps {
   title: string;
-  values?: string;
+  value: string;
 }
 
 export interface CustomFilterProps {
