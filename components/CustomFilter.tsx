@@ -14,7 +14,7 @@ const CustomFilter = ({title, options}:CustomFilterProps) => {
 
   const updateSearch = (e:{title:string; value: string}) => {
     const newPath = updateSearchParam(title, e.value.toLowerCase())
-    router.push(newPath)
+    router.push(newPath,{scroll:false})
   }
 
   
